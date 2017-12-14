@@ -1,2 +1,3 @@
 Git is a distributed verson control system
-Git is free software good 
+Git is free software good
+today is a bad day
